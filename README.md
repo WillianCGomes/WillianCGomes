@@ -6,7 +6,7 @@ Meu nome é <strong> Willian Carlos Gomes </strong>, eu tenho <strong> 19 anos d
 
 ##  📝 Trabalhos e Hobbies:
 
-- 💻 Atualmente estou trabalhando com Java voltado a Instituições Financeiras, utilizando Programação Web, Spring, Banco de Dados, Typescript e Angular.
+- 💻 Atualmente estou trabalhando com Java voltado a Instituições Financeiras, utilizando *Programação Web, Spring, Banco de Dados, Typescript e Angular.*
 
 - 📚 Estou buscando evoluir na área da programação através do estudo de *PHP, HTML5, CSS, JavaScript, Node.js e React.js.*
 
