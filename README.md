@@ -4,9 +4,9 @@
 
 Meu nome é <strong> Willian Carlos Gomes </strong>, eu tenho <strong> 19 anos de idade </strong>, sou Técnico em Logística e estudante de <strong> Análise e Desenvolvimento de Sistemas </strong> na <a href="https://www.up.edu.br/">Universidade Positivo</a>.  Meus principais conhecimentos se encontram nas áreas de Administração e Tecnologia da Informação. Eu tenho buscado evoluir por meio de oportunidades de expressão, indagando o conhecimento, localizando e solucionando problemas. O meu principal objetivo é relacionar o conhecimento com realizações práticas, buscando analisar situações e desenvolver soluções reais, visando a melhoria contínua. 
 
-## 💻 O que estou fazendo atualmente:
+##  📝 Trabalhos e Hobbies:
 
-- 🔭 Atualmente estou trabalhando com Java voltado a Instituições Financeiras, utilizando Programação Web, Spring, Banco de Dados, Typescript e Angular.
+- 💻 Atualmente estou trabalhando com Java voltado a Instituições Financeiras, utilizando Programação Web, Spring, Banco de Dados, Typescript e Angular.
 
 - 📚 Estou buscando evoluir na área da programação através do estudo de *PHP, HTML5, CSS, JavaScript, Node.js e React.js.*
 
