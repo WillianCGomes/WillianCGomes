@@ -17,7 +17,7 @@ Meu nome é <strong> Willian Carlos Gomes </strong>, eu tenho <strong> 19 anos d
 - 🎮 Também gosto muito de jogar online no PC, principalmente simuladores. 
 
 ## 🔍 Onde me encontrar:
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/williancgomes/) [![Follow on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/willian.cgomes/) [![Invite on Facabook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/Williancgomess/) [![Invite on Facabook](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=Whatsapp&style=social)](https://api.whatsapp.com/send?phone=5541998045682) [![Invite on Facabook](https://img.shields.io/badge/--gmail?label=Email&logo=Gmail&style=social)](mailto:gomes.cwillian@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/williancgomes/) [![Follow on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/willian.cgomes/) [![Invite on Facabook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/Williancgomess) [![Invite on Facabook](https://img.shields.io/badge/--whatsapp?label=Whatsapp&logo=Whatsapp&style=social)](https://api.whatsapp.com/send?phone=5541998045682) [![Invite on Facabook](https://img.shields.io/badge/--gmail?label=Email&logo=Gmail&style=social)](mailto:gomes.cwillian@gmail.com)
 
 ## 📊 Meu Status no Github:
 
