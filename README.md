@@ -8,7 +8,7 @@ Meu nome é <strong> Willian Carlos Gomes </strong>, eu tenho <strong> 20 anos d
 
 - 💻 Atualmente estou trabalhando com instituições financeiras e seguradora, utilizando *Programação Web, Java e BIG Data com ETL's e MySQL.*
 
-- 📚 Estou buscando evoluir na área da programação através do estudo de *PHP, HTML5, CSS, JavaScript, Node.js e React.js.*
+- 📚 Estudando *Java, HTML, CSS, JavaScript, Node, Spring Boot, Ângular e React.*
 
 - 🎧 O meu gênero musical de preferência é *Eletrônica*.
 
