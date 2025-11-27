@@ -1,4 +1,4 @@
-## Saudações!!! 👋 <img src="https://github.com/disousadev/disousadev/raw/main/hey.gif?raw=true" width="30px" style="max-width:100%;">
+## Saudações!!! <img src="https://github.com/disousadev/disousadev/raw/main/hey.gif?raw=true" width="30px" style="max-width:100%;">
 
 Meu nome é **Willian Carlos Gomes**, sou **Cientista e Engenheiro de Software** especializado em **Inteligência Artificial** com mais de **6 anos de experiência** em tecnologia. Atualmente atuo na **Foursys** como Desenvolvedor e Especialista em IA, onde trabalho desde a pesquisa e experimentação de tecnologias emergentes até a implementação prática de soluções de IA que agregam valor para clientes e otimizam processos internos.
 
@@ -75,6 +75,7 @@ Possuo **MBA em Inteligência Artificial e Analytics** e sou certificado pela Mi
 #### Formação Acadêmica
 - 🎓 **MBA em Inteligência Artificial e Analytics**
 - 🎓 **Engenharia de Software com Metodologias Ágeis**
+- - 🎓 **Análise e Desenvolvimento de Sistemas**
 
 ### 📝 Projetos e Interesses
 
@@ -86,7 +87,6 @@ Possuo **MBA em Inteligência Artificial e Analytics** e sou certificado pela Mi
 ### 🎸 Hobbies
 
 - 🎸 Tocar violão e guitarra
-- 🎮 Jogar simuladores no PC
 - 📚 Estudar novas tecnologias e tendências em IA
 
 ### 📊 Estatísticas do GitHub
